@@ -4,8 +4,8 @@ site:
   structure:
     - type: space
       key: space-1
-      title: ""
-      path: untitled
+      title: 讀書筆記
+      path: books
       default: true
       content:
         directory: ./books
