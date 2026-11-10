@@ -1,14 +1,14 @@
 # 《執行長日記：關於事業與人生的33條法則》重點整理
 
-<figure><img src=".gitbook/assets/diary-of-a-ceo-cover.jpg" alt="執行長日記 封面" width="240"><figcaption></figcaption></figure>
+<p align="center"><img src="assets/diary-of-a-ceo-cover.jpg" alt="執行長日記 封面" width="240"></p>
 
 - **作者**：史蒂文．巴列特（Steven Bartlett）
 - **譯者**：張嘉倫
 - **原書**：*The Diary of a CEO: The 33 Laws of Business and Life*
 
-{% hint style="info" %}
-作者是播客「The Diary Of A CEO」的主持人，創立過多家行銷與科技公司（Flight Story、thirdweb、Flight Fund）。他說這不是一本講商業策略的書，講的是不會過時的法則，依據是心理學研究、他對數萬人做的調查，以及 700 小時的名人訪談。
-{% endhint %}
+!!! info "說明"
+
+    作者是播客「The Diary Of A CEO」的主持人，創立過多家行銷與科技公司（Flight Story、thirdweb、Flight Fund）。他說這不是一本講商業策略的書，講的是不會過時的法則，依據是心理學研究、他對數萬人做的調查，以及 700 小時的名人訪談。
 
 ---
 

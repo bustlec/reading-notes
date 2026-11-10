@@ -1,0 +1,47 @@
+site_name: 讀書筆記
+site_url: https://bustlec.github.io/reading-notes/
+repo_url: https://github.com/bustlec/reading-notes
+use_directory_urls: false
+
+theme:
+  name: material
+  language: zh-TW
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      toggle:
+        icon: material/brightness-7
+        name: 切換到深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      toggle:
+        icon: material/brightness-4
+        name: 切換到淺色模式
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+
+nav:
+  - 書單: index.md
+  - 心理與成長:
+      - 心流: flow.md
+  - 思維與決策:
+      - 反脆弱: antifragile.md
+  - 商業與職涯:
+      - 執行長日記: diary-of-a-ceo.md

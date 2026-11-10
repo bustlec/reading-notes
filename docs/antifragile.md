@@ -1,14 +1,14 @@
 # 《反脆弱：脆弱的反義詞不是堅強，是反脆弱》重點整理
 
-<figure><img src=".gitbook/assets/antifragile-cover.jpg" alt="反脆弱 封面" width="240"><figcaption></figcaption></figure>
+<p align="center"><img src="assets/antifragile-cover.jpg" alt="反脆弱 封面" width="240"></p>
 
 - **作者**：納西姆．尼可拉斯．塔雷伯（Nassim Nicholas Taleb），《黑天鵝效應》作者
 - **譯者**：羅耀宗
 - **出版**：大塊文化，2013（原書 *Antifragile*, 2012）
 
-{% hint style="info" %}
-一句話總結：**每一件事都會從波動中得利或受損。** 脆弱的東西因波動、隨機、錯誤、壓力和時間而受損；反脆弱的東西則因它們而變得更好。既然黑天鵝無法預測，與其預測，不如讓自己變得反脆弱。
-{% endhint %}
+!!! abstract "一句話總結"
+
+    **每一件事都會從波動中得利或受損。** 脆弱的東西因波動、隨機、錯誤、壓力和時間而受損；反脆弱的東西則因它們而變得更好。既然黑天鵝無法預測，與其預測，不如讓自己變得反脆弱。
 
 ---
 

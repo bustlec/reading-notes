@@ -1,14 +1,14 @@
 # 《心流：高手都在研究的最優體驗心理學》重點整理
 
-<figure><img src=".gitbook/assets/flow-cover.jpg" alt="心流 封面" width="240"><figcaption></figcaption></figure>
+<p align="center"><img src="assets/flow-cover.jpg" alt="心流 封面" width="240"></p>
 
 - **作者**：米哈里．契克森米哈伊（Mihaly Csikszentmihalyi），芝加哥大學心理系前教授、正向心理學領航者
 - **譯者**：張瓊懿
 - **出版**：行路（遠足文化），2019 年 4 月初版（原書 *Flow: The Psychology of Optimal Experience*, 1990）
 
-{% hint style="info" %}
-一句話總結：**幸福不是碰巧遇上，也買不到，而是靠掌控意識培養出來的。** 當我們把身心能力推到極限、全神投入一件有挑戰的事時，就會進入「心流」。每次心流都讓自我更複雜；把整個人生整合成一場心流，生命就有了意義。
-{% endhint %}
+!!! abstract "一句話總結"
+
+    **幸福不是碰巧遇上，也買不到，而是靠掌控意識培養出來的。** 當我們把身心能力推到極限、全神投入一件有挑戰的事時，就會進入「心流」。每次心流都讓自我更複雜；把整個人生整合成一場心流，生命就有了意義。
 
 ---
 
